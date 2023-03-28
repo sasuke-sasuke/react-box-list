@@ -1,0 +1,8 @@
+.Box {
+    display: inline-flex;
+}
+
+.Box-btn {
+    height: 20px;
+    width: 20px;
+}
